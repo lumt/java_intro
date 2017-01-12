@@ -1,0 +1,7 @@
+in this directory run:
+
+
+javac lt/ExpressionProg.java
+
+
+and it will automatically compile the neccessary class files for you
